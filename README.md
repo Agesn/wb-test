@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Trang chủ</title>
+	<title> Trang chủ </title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
