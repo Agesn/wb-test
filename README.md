@@ -24,7 +24,7 @@
 	<main>
 		<section class="product">
  			<h3>Sản phẩm gundam</h3>              
-			<img src="O1CN01SFciXS2BL4TKo0CTy_!!2212840078321.png "
+			<img src="https://i.imgur.com/uylOHfx.jpg "
 			<p>Giá: 257.000đ</p>
 			<button>Mua hàng</button>
 		</section>
