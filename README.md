@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="style.css">
@@ -6,6 +5,10 @@
 <body>
 	<header>
 		<h1>Trang chủ</h1>
+                <form action="/search" method="get">
+  <input type="text" name="q" placeholder="Tìm kiếm...">
+  <button type="submit">Tìm kiếm</button>
+</form>
 		<nav>
 			<ul>
 				<li><a href="#">Trang chủ</a></li>
@@ -20,8 +23,8 @@
 	</section>
 	<main>
 		<section class="product">
-			<img src="https://down-vn.img.susercontent.com/file/tw-11134201-7qukz-lev986m566h3e1 ">
-			<h3>Sản phẩm 1</h3>
-			<p>Giá: 100$</p>
+ 			<h3>Sản phẩm gundam</h3>              
+			<img src="https://i.imgur.com/uylOHfx.jpg "
+			<p>Giá: 257.000đ</p>
 			<button>Mua hàng</button>
 		</section>
