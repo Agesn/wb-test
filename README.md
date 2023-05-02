@@ -27,7 +27,7 @@
 			<img src="https://i.imgur.com/uylOHfx.jpg "
 			<p>Giá: 257.000đ</p>
 			<button>Mua hàng</button>
-        </main>
 		</section>
+        </main>
 </body>
 </html>
