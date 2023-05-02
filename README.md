@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> Trang chủ </title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -24,6 +23,6 @@
 		<section class="product">
 			<img src="product1.jpg">
 			<h3>Sản phẩm 1</h3>
-			<p>Giá: $10</p>
+			<p>Giá: $</p>
 			<button>Mua hàng</button>
 		</section>
