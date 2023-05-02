@@ -24,7 +24,8 @@
 	<main>
 		<section class="product">
  			<h3>Sản phẩm gundam</h3>              
-			<img src="https://down-vn.img.susercontent.com/file/tw-11134201-7qukz-lev986m566h3e1 "
+			<img src="O1CN01SFciXS2BL4TKo0CTy_!!2212840078321.png "
 			<p>Giá: 100$</p>
 			<button>Mua hàng</button>
 		</section>
+
