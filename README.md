@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="style.css">
@@ -29,3 +28,5 @@
 			<p>Giá: 257.000đ</p>
 			<button>Mua hàng</button>
 		</section>
+</body>
+</html>
