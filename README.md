@@ -1,12 +1,14 @@
-<!DOCTYPE html>
 <html>
 <head>
-	<title> Trang chủ </title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
 	<header>
 		<h1>Trang chủ</h1>
+                <form action="/search" method="get">
+  <input type="text" name="q" placeholder="Tìm kiếm...">
+  <button type="submit">Tìm kiếm</button>
+</form>
 		<nav>
 			<ul>
 				<li><a href="#">Trang chủ</a></li>
@@ -18,12 +20,11 @@
 	</header>
 	<section id="banner">
 		<h2>Chào mừng đến với trang web của chúng tôi!</h2>
-		<p>Liên hệ với chúng tôi ngay hôm nay để đặt hàng các sản phẩm</p>
 	</section>
 	<main>
 		<section class="product">
-			<img src="product1.jpg">
-			<h3>Sản phẩm 1</h3>
-			<p>Giá: $10</p>
+ 			<h3>Sản phẩm gundam</h3>              
+			<img src="https://down-vn.img.susercontent.com/file/tw-11134201-7qukz-lev986m566h3e1 "
+			<p>Giá: 100$</p>
 			<button>Mua hàng</button>
 		</section>
