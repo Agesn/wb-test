@@ -17,12 +17,11 @@
 	</header>
 	<section id="banner">
 		<h2>Chào mừng đến với trang web của chúng tôi!</h2>
-		<p>Liên hệ với chúng tôi ngay hôm nay để đặt hàng các sản phẩm</p>
 	</section>
 	<main>
 		<section class="product">
-			<img src="product1.jpg">
+			<img src="https://down-vn.img.susercontent.com/file/tw-11134201-7qukz-lev986m566h3e1 ">
 			<h3>Sản phẩm 1</h3>
-			<p>Giá: $</p>
+			<p>Giá: 100$</p>
 			<button>Mua hàng</button>
 		</section>
